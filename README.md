@@ -1,2 +1,2 @@
-# STATA Coding 
+# Health Disparities Survey 
 The whole objective of this repo is to create a demographic survey for parishes and counties across state regions. The objective of the survey is to discover how resident health disparities are associated with 5 different variables.The 5 variables are income, race , age, education level and gender. These variables give insight on how health disparities across different regions can be removed through addressing the most prominent attributing variable. Please find the STATA code in this repository as a guide to creating multi questionaries for reseacrh purposes. 
